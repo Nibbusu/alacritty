@@ -1,0 +1,22 @@
+import = ["~/.config/alacritty/catppuccin-mocha.toml"]
+
+[window]
+padding = { x = 8, y = 8 }
+decorations = "Buttonless"
+opacity = 0.7
+blur = true
+startup_mode = "SimpleFullscreen"
+
+[font]
+normal = { family = "JetBrainsMono Nerd Font" }
+size = 16
+
+[cursor]
+style = { shape = "Block", blinking = "Always" }
+blink_interval = 800
+
+[terminal]
+osc52 = "CopyPaste"
+
+[mouse]
+hide_when_typing = true
