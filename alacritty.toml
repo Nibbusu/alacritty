@@ -5,7 +5,7 @@ padding = { x = 8, y = 8 }
 decorations = "Buttonless"
 #opacity = 0.7
 #blur = true
-startup_mode = "SimpleFullscreen"
+startup_mode = "Fullscreen"
 
 [font]
 normal = { family = "JetBrainsMono Nerd Font" }
